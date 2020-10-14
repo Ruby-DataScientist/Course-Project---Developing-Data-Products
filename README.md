@@ -9,4 +9,6 @@ You can go to: http://127.0.0.1:5504/ and insert the following variables
 4. Clarity
 5. Depth
 
-of the diamond in order to see what is the predicted price. The presentation can be found here: 
+of the diamond in order to see what is the predicted price. The presentation can be found here:
+
+https://rpubs.com/Ruby-DataScientist/675690
